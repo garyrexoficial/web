@@ -1,2 +1,2 @@
 # web
-https://gr-rocket.github.io/web/
+https://garyrexoficial.github.io/web/
